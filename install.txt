@@ -1,0 +1,9 @@
+react-native-camera
+react-native-safe-area-context
+react-native-permissions
+react-native-screens
+react-native-qrcode-scanner
+redux
+redux-thunk
+react-redux
+react-native-svg
